@@ -1,0 +1,16 @@
+
+"Agent: """"I can certainly help with that. Was there something wrong with the machine?""""
+
+Customer: """"No, it works perfectly fine. My wife just surprised me with the exact same one as a gift, so I don't need two.""""
+
+Agent: """"That's a lovely surprise! Not a problem at all. We can process that return for you."""""",","The customer returned a product because they received the same item as a gift, and the agent processed the return without issue.",Positive
+"Agent: """"I can certainly help with that. Was there something wrong with the machine?""""
+
+Customer: """"No, it works perfectly fine. My wife just surprised me with the exact same one as a gift, so I don't need two.""""
+
+Agent: """"That's a lovely surprise! Not a problem at all. We can process that return for you."""""",","The customer returned a product because they received the same item as a gift, and the agent processed the return without any issues.",Neutral
+"""Agent: """"""""I can certainly help with that. Was there something wrong with the machine?""""""""
+
+Customer: """"""""No, it works perfectly fine. My wife just surprised me with the exact same one as a gift, so I don't need two.""""""""
+
+Agent: """"""""That's a lovely surprise! Not a problem at all. We can process that return for you."""""""""""",","The customer returned a product because they received the same item as a gift, and the agent processed the return without issue.",Positive
